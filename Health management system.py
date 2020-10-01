@@ -1,5 +1,5 @@
 print("WELCOME TO THE FAMILY HEALTH MANAGEMENT SYSTEM")
-print("Identify Yourself ")
+print("Diagnose Yourself and Take care")
 print("Press-1 For Shaurya \nPress-2 For Bhavya\nPress-3 For Rashmi\nPress-4 For Deepak ")
 a=int(input("Number: "))
 if a==1:
